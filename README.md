@@ -13,7 +13,7 @@
 ---
 
 ## 📫 Onde me encontrar
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)]([https://linkedin.com/in/SEU-LINKEDIN](https://www.linkedin.com/in/michellegcorrea/))  
-📧 **vitocostasilva@gmail.com**
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/michellegcorrea/))  
+📧 **michellegcorrea@gmail.com**
 
 ---
