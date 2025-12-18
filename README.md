@@ -25,50 +25,55 @@ Postman<br />
 Jira<br />
 Confluence<br />
 Trello<br />
-Qase<img width="272" height="79" alt="image" src="https://github.com/user-attachments/assets/5e449be3-4a25-4aa4-8f3f-8ccb937726d1" />
+Qase<br />
 
 🧠 Linguagens de Programação<br />
-Javascript - Curso em andamento<br />
+Javascript <br />
 
 🧭 Metodologias<br />
 Agile, Scrum, Kanban e Cascata<br />
 
 ---
 
-💡 Soft Skills
-💬 Comunicação Eficaz
-⚡ Proatividade
-🎯 Liderança
-🧩 Adaptabilidade
-🧠 Pensamento Crítico
-🤝 Colaboração em Equipe
+💡 Soft Skills<br />
+
+💬 Comunicação Eficaz<br />
+⚡ Proatividade<br />
+🧩 Adaptabilidade<br />
+🧠 Pensamento Crítico<br />
+🤝 Colaboração em Equipe<br />
+
 ---
 
 🎓 Formação
 🎓 ✍️ Pós graduação: Engenharia de software com ênfase em qualidade e teste de software<br />
-🧪 Em constante aprimoramento rumo a uma carreira sólida em Qualidade de Software
-📜 Certificações
-Cypress: Do Zero à Nuvem
-Instituição: Walmyr Filho
-Tecnologias: Cypress, CI/CD, GitHub Actions, Cypress Cloud
+🧪 Em constante aprimoramento rumo a uma carreira sólida em Qualidade de Software<br />
 
-Dominando Postman (2025): Do Teste Manual a Performance APIs
-Instituição: Udemy – Qualiters Club
-Tecnologias: Postman, APIs, Automação de API, Testes de API
+📜 Certificações<br />
 
-Conceitos de Testes de Software
-Instituição: Qazando – Trilha QA 2.0
+Teste de Software Principios e Fundamentos QA<br />
+Instituição: Udemy<br />
 
-Gestão de Projetos e Gestão Ágil com Scrum
-Instituição: Udemy – Guilherme Queiroz e Marcus Oliveira
+Como utilizar o gherkin da forma correta<br />
+Instituição:qazando<br />
 
-Estou começando a preparação para o CTFL
+Conceitos de Testes de Software<br />
+Instituição: Qazando – Masterclass<br />
+
+BDD - Behavior-Driven Development: Simplificado<br />
+Instituição: Udemy<br />
+
+Javascript para QAs<br />
+Instituição: Fernando Papito<br />
+
+
+
+
+Iniciando a preparação para o CTFL<br />
 
 ---
 
-🧠 Próximos Estudos
-Selenium Automação de Navegadores
-k6 Testes de Performance
-JMeter Testes de Carga
+🧠 Próximos Estudos<br />
+
 
 ---
