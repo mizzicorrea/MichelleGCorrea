@@ -1,31 +1,31 @@
-# Olá, eu sou a Michelle 😄
+Olá, eu sou a Michelle 😄
 
 ✍️ Cursando o Masterclass QAzando<br />
 📫 Contato: michellegcorrea@gmail.com<br />
 📷 Instagram: @michellegcorrea<br />
-LinkedIn: https://www.linkedin.com/in/michellegcorrea  <br /><br />
+LinkedIn: https://www.linkedin.com/in/michellegcorrea  <br />
 
 🧩 Skills Técnicas<br />
 🧪 Testes Manuais<br />
 
 ---
 
-🚀 Tecnologias & Ferramentas<br /><br />
+🚀 Tecnologias & Ferramentas<br />
 🗄️ Banco de Dados<br />
 SQL<br />
-Oracle<br /><br />
+Oracle<br />
 
 🤖 Testes Automatizados<br />
-Robot Framework - Basico<br /><br />
+Robot Framework - Basico<br />
 
 🔌 Testes de API<br />
-Postman<br /><br />
+Postman<br />
 
 🚀  Ferramentas<br />
 Jira<br />
 Confluence<br />
 Trello<br />
-Qase<br /><br />
+Qase<img width="272" height="79" alt="image" src="https://github.com/user-attachments/assets/5e449be3-4a25-4aa4-8f3f-8ccb937726d1" />
 
 🧠 Linguagens de Programação<br />
 Javascript - Curso em andamento<br />
