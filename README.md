@@ -1,29 +1,35 @@
 # Olá, eu sou a Michelle 😄
 
-✍️ Cursando o programa Masterclass QAzando
-✍️ Pós graduação: Engenharia de software com ênfase em qualidade e teste de software
-📫 Contato: michellegcorrea@gmail.com
-📷 Instagram: @michellegcorrea
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/michellegcorrea/))  
+✍️ Cursando o programa Masterclass QAzando<br />
+✍️ Pós graduação: Engenharia de software com ênfase em qualidade e teste de software<br />
+📫 Contato: michellegcorrea@gmail.com<br />
+📷 Instagram: @michellegcorrea<br />
+LinkedIn: https://www.linkedin.com/in/michellegcorrea  <br /><br />
 
-🧩 Skills Técnicas
-🧪 Testes Manuais
-Planejamento, criação 
+🧩 Skills Técnicas<br />
+🧪 Testes Manuais<br />
 
 ---
 
-## 🚀 Tecnologias & Ferramentas
-🗄️ Banco de Dados
-![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
-🤖 Testes Automatizados
-Robot Framework - Basico
-🔌 Testes de API
-![Postman](https://img.shields.io/badge/-Cypress-17202C?logo=cypress&logoColor=white)
-🚀  Ferramentas
-![Jira](https://img.shields.io/badge/-Jira-0052CC?logo=jira&logoColor=white)
-🧠 Linguagens de Programação
-Javascript - Curso em andamento
+🚀 Tecnologias & Ferramentas<br /><br />
+🗄️ Banco de Dados<br />
+SQL<br />
+Oracle<br /><br />
+
+🤖 Testes Automatizados<br />
+Robot Framework - Basico<br /><br />
+
+🔌 Testes de API<br />
+Postman<br /><br />
+
+🚀  Ferramentas<br />
+Jira<br />
+Confluence<br />
+Trello<br />
+Qase<br /><br />
+
+🧠 Linguagens de Programação<br />
+Javascript - Curso em andamento<br />
 
 ---
 
